@@ -29,5 +29,6 @@ end
 
 def turn(board)
   puts "Please enter 1-9:"
-  answer = gets.chomp 
+  answer = gets.chomp
+  answer
 end 
