@@ -35,6 +35,6 @@ def turn(board)
     move(board, answer)
     puts display_board(board)
   else
-    
+    turn(board)
   end 
 end 
